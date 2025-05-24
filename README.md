@@ -13,6 +13,11 @@ Technology Background and Novelty of Project:
 1. Applying Convolution Neural N network for Lung Prophylaxis
 2. Data Set Used is ( authentic as collected from more than 100 expert doctors throughout the world)
 
-QR CODE(full Details of Project)
+Model Architecture
+![Model Architecture](https://github.com/user-attachments/assets/eb8736b5-8983-48f8-b163-027b3b864ccf)
+
+
+
+QR CODE FOR DETAILS AND WORKING OF MY PROJECT
 ![frame (1)](https://github.com/user-attachments/assets/2d4d7d8f-8bff-4765-b6f5-b2095c9ce914)
 
