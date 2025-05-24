@@ -14,4 +14,5 @@ Technology Background and Novelty of Project:
 2. Data Set Used is ( authentic as collected from more than 100 expert doctors throughout the world)
 
 QR CODE(full Details of Project)
-![image](https://github.com/user-attachments/assets/8c73041a-b250-4d8b-b35f-35040d9e3e9b)
+![frame (1)](https://github.com/user-attachments/assets/2d4d7d8f-8bff-4765-b6f5-b2095c9ce914)
+
